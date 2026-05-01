@@ -1,7 +1,7 @@
 ![logo](https://img.freepik.com/free-vector/gradient-devops-illustration_23-2149370940.jpg?semt=ais_hybrid&w=740&q=80)
 
 <h1 align="center">Hi 👋, I'm Maurishi</h1>
-<h3 align="center">Passionate Developer | JavaScript | React JS | Machine Learning Enthusiast</h3>
+<h3 align="center">SQL | Python | Power BI | Data Visualisation | Gen AI Data Analyst| Machine Learning Enthusiast</h3>
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -10,13 +10,13 @@
 </p>
 
 ## 💫 About Me:
-- 🌱 I’m currently learning **JavaScript, React JS, and Machine Learning with Python**
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/)
+- 🌱 I’m currently learning **Gen AI Data Analyst, SQL , Power BI, Data Visualization, Inferential Statistics and Machine Learning with Python**
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/maurishi-5a89851a3/in/)
 - 📫 How to reach me: **maurishisingh97@gmail.com**
 
 ## 🌐 Socials:
 <p align="left">
-  <a href="https://www.linkedin.com/in/" target="_blank">
+  <a href="https://www.linkedin.com/in/maurishi-5a89851a3/in/" target="_blank">
     <img align="center"
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
          alt="maurishi09"
