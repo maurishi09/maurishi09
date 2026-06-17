@@ -12,7 +12,7 @@
 ## 💫 About Me:
 - 🌱 I’m currently learning **Gen AI Data Analyst, SQL , Power BI, Data Visualization, Inferential Statistics and Machine Learning with Python**
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/maurishi-5a89851a3/in/)
-- 📫 How to reach me: **maurishisingh97@gmail.com**
+- 📫 How to reach me: **maurishisingh1@gmail.com**
 
 ## 🌐 Socials:
 <p align="left">
